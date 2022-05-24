@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bleh1303 
+- 👋 Hi, I’m Liya Joseph!
 - 💞 I am a student at National Institute of Technology, Rourkela , pursuing my Bachelor in Technology , majoring in Computer Science and Engineering.
 - 😻 I am a passionate full stack developer and UI/UX Designer. 
 - 🌱 I’m currently learning React JS.
